@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 or later | MacOS 11 or later |
+| **Processor** | Min: 2.6 GHz Quad Core or similar / Rec: i5 3GHz or Ryzen 5 3GHz | 2.6 GHz Quad Core or similar |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: GeForce GTX 950 or Radeon HD 7970 / Rec: GeForce GTX 1060 or Radeon RX 580 | Radeon Pro 450 or R9 M290X |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 1 GB available space | 3 GB available space |
+| **Additional Notes** | The following languages have been partially translated … | The following languages have been partially translated … |
 
 ---
 
